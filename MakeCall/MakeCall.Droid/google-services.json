@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "45772281098",
+    "firebase_url": "https://dz-software.firebaseio.com",
+    "project_id": "dz-software",
+    "storage_bucket": "dz-software.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45772281098:android:c4fb5ee2455ae5fa",
+        "android_client_info": {
+          "package_name": "FacilFono.FacilFono"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45772281098-emcaqnr48o298tvmjb69cijq6annn7i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1EGuVOGstGA2veRqycc5gc6dKw6Bu2T4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
